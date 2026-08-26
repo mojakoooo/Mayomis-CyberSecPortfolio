@@ -212,7 +212,7 @@ control and its purpose.
   **Control Name**        **Control Type**        **Control Purpose**
 
   Least Privilege         Preventative            Reduce risk and
-                                                  [overall impact]{.mark}
+                                                  overall impact
                                                   of malicious insider or
                                                   compromised accounts
 
@@ -234,14 +234,14 @@ control and its purpose.
   Account management      Preventative            Managing account
   policies                                        lifecycle, reducing
                                                   attack surface, and
-                                                  limiting [overall
-                                                  impact]{.mark} from
+                                                  limiting overall
+                                                  impact from
                                                   disgruntled former
                                                   employees and default
                                                   account usage
 
   Separation of duties    Preventative            Reduce risk and
-                                                  [overall impact]{.mark}
+                                                  overall impact
                                                   of malicious insider or
                                                   compromised accounts
   ----------------------- ----------------------- -----------------------
@@ -285,8 +285,8 @@ control and its purpose.
   **Control Name**        **Control Type**         **Control Purpose**
 
   Time-controlled safe    Deterrent                Reduce attack surface
-                                                   and [overall
-                                                   impact]{.mark} from
+                                                   and
+                                                   impact from
                                                    physical threats
 
   Adequate lighting       Deterrent                Deter threats by
